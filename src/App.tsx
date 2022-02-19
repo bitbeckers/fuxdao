@@ -16,8 +16,8 @@ export const App = () => (
       <Grid minH="100vh" p={3}>
         <ColorModeSwitcher justifySelf="flex-end" />
         <VStack spacing={8}>
-          <Heading>
-            <Text>🍆🖕🍑</Text>
+          <Heading fontSize='8xl'>
+            🍆🖕🍑
           </Heading>
           <Text fontSize="4xl">How many FUX can you give?</Text>
           <Box>
